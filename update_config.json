@@ -2,7 +2,7 @@
   "android": {
     "minVersion": "1.1.6",
     "latestVersion": "1.1.6",
-    "forceUpdate": true,
+    "forceUpdate": false,
     "updateUrl": "https://play.google.com/store/apps/details?id=com.akil.financetracker.finance_tracker",
     "message": "A new version of PesaTrack is available with improvements and fixes."
   },
