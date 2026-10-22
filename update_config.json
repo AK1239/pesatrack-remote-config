@@ -7,8 +7,8 @@
     "message": "A new version of PesaTrack is available with improvements and fixes."
   },
   "ios": {
-    "minVersion": "1.1.2",
-    "latestVersion": "1.1.2",
+    "minVersion": "1.1.14",
+    "latestVersion": "1.1.14",
     "forceUpdate": false,
     "updateUrl": "https://apps.apple.com/app/id6805447133",
     "message": "A new version of PesaTrack is available with improvements and fixes."
